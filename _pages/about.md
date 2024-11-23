@@ -12,7 +12,6 @@ profile:
   more_info: >
     <p>Mack Brumbaugh</p>
     <p>bvm8eu@virginia.edu</p>
-    <p>https://www.linkedin.com/in/mack-brumbaugh/</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
