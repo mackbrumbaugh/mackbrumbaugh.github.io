@@ -1,11 +1,21 @@
 ---
-layout: cv
+layout: about
+title: CV
 permalink: /cv/
-title: cv
+description: Current and Up to Date CV
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 1
 ---
+
+
+
+## add text here
+
+## for a link do this: 
+[Ylva Website](https://www.ylva-publishing.com/product/a-heist-story-by-ellen-simpson/) 
+
+"ylva website" is what will show up as your hyperlink
+
+
+
+## 
