@@ -9,13 +9,5 @@ nav_order: 1
 
 
 
-## add text here
+**For an up-to-date CV, you can find it [here](/assets/pdf/BrumbaughCV-112024F.pdf)
 
-## for a link do this: 
-[Ylva Website](https://www.ylva-publishing.com/product/a-heist-story-by-ellen-simpson/) 
-
-"ylva website" is what will show up as your hyperlink
-
-
-
-## 

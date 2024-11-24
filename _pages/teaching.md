@@ -1,33 +1,35 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Graduate Teaching Assistantceships 
+title: teaching assistantships
+description: 
 nav: true
 nav_order: 3
 ---
 
-
-## THIS IS FROM ELLENS. THE HASHTAGS AND STARS WILL BOLD OR ITALICIZE. WE CAN GO OVER WHAT THEY LOOK LIKE/ OR JUST LOOK AT ELLENS WEBSITE
-
-
-#### <u><b>Teaching Statement</b></u>
-
-In my teaching practice, I emphasize an interdisciplinary approach focused on critical thinking, academic writing, and building the computational skills necessary for students to succeed in both their creative and entrepreneurial endeavors. After five years of teaching-–as an instructor of record, a teaching assistant, and a mentor to junior colleagues--I look forward to building on this strong foundation of educational practice. I have experience teaching on topics such as social computing, user-centered design, and research methodologies. I also have experience in course development at both the graduate and undergraduate level, as well as extensive experience in student mentoring. [Full Teaching Statement](/assets/pdf/teachingstatement.pdf)
+In my work as a graduate teaching assistant, I mentor and guide students throughout the semester via feedback on grades and weekly office hours in a course focused on media history. I have previously assisted in courses both in the media studies and data science departments.
 
 - - -
 
-#### <u><b>Courses Taught</b></u>
-##### **University of Colorado, Boulder**
+#### Teaching Assistantships
+##### University of Virginia
 
-*Spring 2024* - **Online Communities**
+*Fall 2024* - **MDST 3050: History of Media**
+	
+	Course taught by Prof. Kevin Driscoll
 
-*Spring 2023* - **Online Communities**
+*Spring 2024* - **MDST 4510: AI and Society**
 
-*Summer 2022* - **Introduction to Information Science: Understanding the World Through Data**
+	 Course taught by Prof. Mona Sloane
+	 
+*Spring 2024* - **MDST 3751: Value, Values, and Valuation**
 
-*Summer 2023* - **CMCI Pathways to Excellence, Study Skills and Academic Success**
+	 Course taught by Prof. Lana Swartz
+	 
+*Spring 2024* - **DS 2004: Data Ethics**
 
-*Summer 2022* - **CMCI Pathways to Excellence, Study Skills and Academic Success**
+	 Course taught by Prof. Mona Sloane
+
 
 - - -
+
