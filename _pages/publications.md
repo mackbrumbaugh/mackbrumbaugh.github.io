@@ -30,11 +30,11 @@ Fiction Workshop.” In Proceedings of CHI 2025 (CHI ’25). ACM, New York, NY, 
 
 #### **Publications In Progress**
 
-Brumbaugh, M. (2024). “We hear the wilderness, and it hears us.”: Queer and Feminine
-Wildness in Yellowjackets. (In Preparation for Slate).
+Brumbaugh, M. (2024). “We hear the wilderness, and it hears us.”: The Queer and Feminist
+Wild in Yellowjackets. (In Preparation for Slate).
 
 Brumbaugh, M., & Cavalcante, A. (2024). “We hear the wilderness, and it hears us.”:
-Queer and Feminine Wildness in Yellowjackets. Television and New Media.
+The Queer and Feminist Wild in Yellowjackets. Television and New Media.
 
 
 
