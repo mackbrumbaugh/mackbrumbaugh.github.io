@@ -12,6 +12,10 @@ nav_order: 2
 
 #### **Publications**
 
+Brumbaugh, M. (2025). “’We hear the Wilderness, and It hears us’: The Queer and Feminist Wild in Yellowjackets.” Charlottesville, VA: University of Virginia, Media, Culture, and Technology - Graduate School of Arts and Sciences, MA (Master of Arts), 2025. https://doi.org/10.18130/bxdz-2m17 
+
+Brumbaugh, M. (2025). “Avery Dame-Griff, The Two Revolutions: A History of the Transgender Internet.” International Journal of Communication, 19:1148-1150. 
+
 Brumbaugh, M. (2021, April 13). Edwina “Curlie” Justus (1943- ). BlackPast.org. https://www.blackpast.org/african-american-history/people-african-american-history/edwina-curlie-justus-1943/https://documents.alexanderstreet.com/d/1010596331
 
 Brumbaugh, M. (2019). Biography of Helen Crawford (1866-1933). Part III: Mainstream Suffragists. Biographical Database of NAWSA Suffragists, 1890-1920. https://documents.alexanderstreet.com/d/1010596331
@@ -20,21 +24,14 @@ Brumbaugh, M. (2019). Biography of Helen Crawford (1866-1933). Part III: Mainstr
 
 #### **Publications Under Review**
 
-Pruekcharoen, P., Brumbaugh, M., Ruzicka, E., & Sloane, M. (2024). “Through Her Lens:
-An Exploration of Women’s Perceptions on Generative Image AI through Co-Design
-Fiction Workshop.” In Proceedings of CHI 2025 (CHI ’25). ACM, New York, NY, USA,
-20 pages.
+Pruekcharoen, P., Brumbaugh, M., Ruzicka, E., Simpson, E. & Sloane, M. (2025). “Exploring Social Implications of Generative Image AI through Women’s Perspectives in a Co-Design Fiction Workshop.” In Proceedings of CHI 2026 (CHI ’26). ACM, New York, NY, USA. 
 
 
 
 
 #### **Publications In Progress**
 
-Brumbaugh, M. (2024). “We hear the wilderness, and it hears us.”: The Queer and Feminist
-Wild in Yellowjackets. (In Preparation for Slate).
-
-Brumbaugh, M., & Cavalcante, A. (2024). “We hear the wilderness, and it hears us.”:
-The Queer and Feminist Wild in Yellowjackets. Television and New Media.
+Brumbaugh, M., & Dodds, G. (2026). “The Queer Ultimatum: Homonormativity Under the New Lavender Scare” (In Preparation for Feminist Media Studies) 
 
 
 
