@@ -9,5 +9,5 @@ nav_order: 1
 
 
 
-**For an up-to-date CV, you can find it [here](/assets/pdf/BrumbaughCV-112624.pdf)**
+**For an up-to-date CV, you can find it [here](/assets/pdf/BrumbaughCV-1125.pdf)**
 
