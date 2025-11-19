@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-In my work as a graduate teaching assistant, I mentor and guide students throughout the semester via feedback on grades and weekly office hours in a course focused on media history. I have previously assisted in courses both in the media studies and data science departments at the University of Virginia
+In my work as a graduate teaching assistant, I mentored and guided students throughout the semester via feedback on grades and weekly office hours in a course focused on media history. I also gave guest lectures in the History of Media course offering students alternative narratives to traditional histories of computing by highlighting the work of marginalized queer, trans, and feminist scholars. I have previously assisted in courses both in the media studies and data science departments at the University of Virginia.  
 
 - - -
 
@@ -15,7 +15,9 @@ In my work as a graduate teaching assistant, I mentor and guide students through
 ##### University of Virginia
 
 
-
+*Spring 2025* - **MDST 3050: History of Media**
+	
+•  Course taught by Prof. Keara Goin
 
 *Fall 2024* - **MDST 3050: History of Media**
 	
