@@ -23,3 +23,5 @@ I am currently a Ph.D. student at the University of Southern California in the C
 Previously, I graduated from the University of Virginia with my master’s in Media, Culture, and Technology. My master’s thesis explored representations of subversive femininity and sexuality as portrayed in horror media and how audiences responded to these representations. Through this research, I developed intellectual strengths and interests in queer and feminist theory and audience reception research that I aim to incorporate into my proposed doctoral research. 
 
 As a scholar, I believe that we can learn a lot about our social culture from the technologies, texts, and platforms that we interact with on a daily basis. Through my work, I aim to bring a humanistic approach to cinema and media studies that centers on the end users that make these platforms and technologies what they are, not just the corporations and individuals that control them. 
+
+Outside of research, you can find me watching the latest horror movie or reality television show, doing a crossword, or visiting a theme park. 
